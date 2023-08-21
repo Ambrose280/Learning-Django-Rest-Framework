@@ -28,10 +28,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'base',
     'rest_framework',
-    'baton',
+    
 
-# ... (place baton.autodiscover at the very end)
-    'baton.autodiscover',
+
 ]
 
 
